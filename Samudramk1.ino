@@ -16,8 +16,8 @@
 
 // ================= WIFI =================
 
-const char* WIFI_SSID = "VSAI";
-const char* WIFI_PASSWORD = "sai_141107";
+const char* WIFI_SSID = "WIFI NAME";
+const char* WIFI_PASSWORD = "WIFI PASSWORD";
 
 
 // ================= ESP32 PINS ===========
